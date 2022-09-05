@@ -26,6 +26,7 @@
 
 body {
   font-family: "Arial Narrow";
+  letter-spacing: 0.04em;
   background-color: var(--bg);
   color: var(--text);
   display: flex;
@@ -62,6 +63,7 @@ body {
   font-size: 22px;
   line-height: 1.2;
   font-family: "Arial Narrow";
+  letter-spacing: 0.04em;
   grid-area: title;
   align-items: center;
   color: #008b8b;
@@ -90,6 +92,7 @@ body {
   line-height: 1.4;
   margin: 0 0 15px 0;
   font-family: "Arial Narrow";
+  letter-spacing: 0.04em;
   color: #008b8b;
 }
 
